@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @subash24
 - 👀 I’m interested in working in technologies that change this modern world
 - 🌱 I’m currently learning web development specializing in React js 
-- 💞️ I’m looking to collaborate on creating projects that satisfy everyone woring
+- 💞️ I’m looking to collaborate on  web development projects
 - 📫 How to reach me- Mail me on subash9092857572@gmail.com
 
 <!---
